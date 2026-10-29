@@ -1,71 +1,54 @@
-# Hi, I'm **Bharadwaj Patil** 👋  
-Final-year Artificial Intelligence & Data Science Student  
-Full Stack Developer | AI/ML Enthusiast | Data Science Learner  
+# Hi, I'm Bharadwaj Patil 👋
+
+Final-year B.E. student in Artificial Intelligence & Data Science.
+I build full-stack and AI applications: computer vision, voice agents, and decision-support systems.
+
+📍 India · 💼 Looking for AI / ML / full-stack roles
+
+[LinkedIn](https://www.linkedin.com/in/bharadwaj-patil-46271124b/)
 
 ---
 
-## 🌟 About Me  
-- 🎓 Pursuing **B.E in AI & Data Science**  
-- 💻 Interested in **Full Stack Development, Machine Learning, and GAN-based projects**  
-- 🚀 Currently working on ** Student Dropout Prediction and Counselling System**  
-- 📚 Learning **React, Node.js, TensorFlow, and PyTorch**  
+## 🚀 Featured Projects
+
+### 🎓 [AI-Based Student Dropout Prediction & Counselling System](https://github.com/bharadwajpatil/AI-Based-Student-Dropout-Prediction-Counselling-System)
+Early-warning platform for colleges that scores each student's dropout risk and guides counsellors.
+- Explainable risk engine: weighted factors, override rules and hysteresis to avoid alert flapping
+- Role-based dashboards for admin, HOD, faculty and students, with real-time alerts (SSE)
+- AI counselling suggestions (Google Gemini) with an automatic template fallback
+- Audit logging, rate limiting and security headers; runs with Docker Compose
+
+**Stack:** Python, FastAPI, React, TypeScript, Tailwind, MongoDB, Docker
+
+### 📞 [VoiceDesk AI: AI Voice Receptionist](https://github.com/bharadwajpatil/VoiceDesk-AI)
+Voice agent that answers business calls, handles FAQs and books appointments.
+- Real-time voice pipeline: LiveKit Agents, Deepgram (speech-to-text), Cartesia (text-to-speech)
+- Tool calling to check slots, book and cancel appointments, with conflict detection
+- Google Calendar sync via OAuth 2.0; SQLite storage; pytest test suite
+
+**Stack:** Python, LiveKit Agents, SQLite, Google Calendar API
+
+### 🚗 [Vehicle Speed Detection](https://github.com/bharadwajpatil/Vehicle-Speed-Detection)
+Real-time vehicle detection, tracking and speed estimation from video.
+- YOLOv8 detection + ByteTrack tracking
+- 4-point homography calibration to a metric ground plane; speed computed from video time
+- CLI, interactive calibration tool and CSV telemetry
+- Geometry verified on a synthetic clip (MAPE ~2%); real-world accuracy not yet validated against ground truth
+
+**Stack:** Python, YOLOv8 (Ultralytics), OpenCV, NumPy
 
 ---
 
-## 🛠️ Tech Stack  
-**Programming:** Python, JavaScript  
-**Frontend:** React.js, HTML, CSS, Bootstrap  
-**Backend:** Node.js, Express.js  
-**Machine Learning:** Scikit-Learn, Pandas, NumPy  
-**Deep Learning:** TensorFlow, PyTorch  
-**Databases:** MySQL, MongoDB  
-**Tools:** Git, GitHub, VS Code, Postman  
+## 🛠️ Tech Stack
+**Languages:** Python, TypeScript/JavaScript  
+**Backend:** FastAPI  
+**Frontend:** React, Tailwind CSS  
+**Databases:** MongoDB, SQLite  
+**AI / CV:** YOLOv8, OpenCV, ByteTrack, LLM APIs (Gemini), LiveKit Agents  
+**Tools:** Git, GitHub Actions, Docker, pytest  
+
+**Learning:** PyTorch, TensorFlow, Node.js
 
 ---
 
-## 🚀 Projects  
-
-### 🔹 **1. Speed Car Detection System**  
-A computer vision project that detects vehicles in real-time using **YOLO + OpenCV**,  
-tracks them across frames, calculates their movement, and estimates vehicle **speed (km/h)**  
-using pixel-to-meter calibration.  
-**Tech Used:** Python, YOLO (Ultralytics), OpenCV, NumPy  
-**Features:**  
-- Vehicle detection  
-- Real-time tracking  
-- Speed estimation  
-- Bounding box visualization  
-
-### 🔹 2. Student Dropout Prediction System
-
-A machine learning-based system that predicts whether a student is at risk of dropping out based on academic, demographic, and behavioral data.
-The model analyzes patterns in student performance, attendance, engagement, and socioeconomic factors to generate early warning alerts.
-
-Tech Used: Python, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn
-
-Features:
-
-Data preprocessing & feature engineering
-
-Machine learning model training (Logistic Regression, Random Forest, XGBoost)
-
-Early warning risk prediction (Low/Medium/High)
-
-Evaluation metrics (Accuracy, F1-score, Confusion Matrix)
-
-Visualization of student performance patterns
-
-## 📫 Connect With Me  
-- 💼 LinkedIn: *(https://www.linkedin.com/in/bharadwaj-patil-46271124b/)*  
-- 📧 Email: *(https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)*
-
----
-
-## 📊 GitHub Stats  
-![Bharadwaj's GitHub stats](https://github.com/bharadwajpatil)
-
----
-
-### ⭐ Fun Fact  
-I love solving real-world problems with code and experimenting with AI models!
-
+⭐ I like turning real-world problems into working, tested software.
