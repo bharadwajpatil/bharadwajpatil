@@ -5,7 +5,7 @@ I build full-stack and AI applications: computer vision, voice agents, and decis
 
 📍 India · 💼 Looking for AI / ML / full-stack roles
 
-[LinkedIn](https://www.linkedin.com/in/bharadwaj-patil-46271124b/)
+[LinkedIn](https://www.linkedin.com/in/bharadwaj-patil-46271124b/) · [Email](mailto:patilbharadwaj@gmail.com)
 
 ---
 
