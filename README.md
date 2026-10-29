@@ -1,9 +1,9 @@
 # Hi, I'm Bharadwaj Patil 👋
 
-Final-year B.E. student in Artificial Intelligence & Data Science.
+B.E. graduate in Artificial Intelligence & Data Science (2026).
 I build full-stack and AI applications: computer vision, voice agents, and decision-support systems.
 
-📍 India · 💼 Looking for AI / ML / full-stack roles
+📍 India · 💼 Open to AI/ML and full-stack developer roles
 
 [LinkedIn](https://www.linkedin.com/in/bharadwaj-patil-46271124b/) · [Email](mailto:patilbharadwaj@gmail.com)
 
